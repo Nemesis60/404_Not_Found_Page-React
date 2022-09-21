@@ -2,7 +2,7 @@ This project was created with ReactJS, is a responsive page too.
 
 Desktop
 
-![preview-image-404-not-found](https://user-images.githubusercontent.com/99365579/191329204-ee90f883-03a1-4cdf-9f30-e7f0fcd9ac98.png)
+![404_not_found-Desktop](https://user-images.githubusercontent.com/99365579/191551635-3ac0fbf9-4f2f-4e0f-8ad2-c7dd2f986006.png)
 
 Mobile
 
