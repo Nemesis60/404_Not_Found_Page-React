@@ -1,4 +1,4 @@
-This project was created with ReactJS, is a responsive page too.
+This project was created with ReactJS (JavaScript, HTML, CSS), is a responsive page too.
 
 Desktop
 
